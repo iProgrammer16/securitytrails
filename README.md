@@ -1,0 +1,1 @@
+# Collect domains from securitytrails
